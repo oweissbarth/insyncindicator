@@ -1,0 +1,1 @@
+{"name": "Insync Indicator", "description": "Shows the current sync status of the insync daemon", "uuid": "insyncindicator@mail.oweissbarth.de", "shell-version": ["3.26.1"]}
